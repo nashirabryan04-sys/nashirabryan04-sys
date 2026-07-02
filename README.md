@@ -11,8 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/nashirabryan04-sys/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Nashira | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+ src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Nashira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Nashira | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
